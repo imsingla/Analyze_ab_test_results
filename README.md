@@ -3,7 +3,9 @@
 # Table of Contents
 
 Part I - Probability
+
 Part II - A/B Test
+
 Part III - Regression
 
 Introduction
